@@ -1619,7 +1619,7 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $('#field-phone').inputmask('+7 (999) 999 99 99');
+    $('#field-phone').inputmask('+373 (999) 999 99');
 });
 
 /* End */
