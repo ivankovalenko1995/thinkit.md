@@ -42,7 +42,7 @@ Disallow: /policy/
 Disallow: /teoria/plus.php
 Disallow: /seti-i-inzhenernyie-sistemyi/ventilyatsiya-i-konditsionirovanie/
 Disallow: /services/calc/
-Sitemap: https://lan-serv.ru/sitemap.xml
+Sitemap: https://thinkit.md/sitemap.xml
 
 User-Agent: Yandex
 Allow: /upload/iblock/
@@ -90,7 +90,7 @@ Disallow: /policy/
 Disallow: /teoria/plus.php
 Disallow: /seti-i-inzhenernyie-sistemyi/ventilyatsiya-i-konditsionirovanie/
 Disallow: /services/calc/
-Host: https://lan-serv.ru/
+Host: https://thinkit.md/
 
 User-Agent: Googlebot
 Allow: /upload/iblock/
@@ -139,4 +139,4 @@ Disallow: /policy/
 Disallow: /teoria/plus.php
 Disallow: /seti-i-inzhenernyie-sistemyi/ventilyatsiya-i-konditsionirovanie/
 Disallow: /services/calc/
-Sitemap: https://lan-serv.ru//sitemap.xml
+Sitemap: https://thinkit.md//sitemap.xml
